@@ -14,7 +14,7 @@ follow these steps to install the sofware:
 3- click "next"
 *sublist _no se que debo escribir_ 😄
 4- click next again, if you are using windwos **do_not_check** ~~no se que debo escribir~~
-![Installation](https://github.com/Mona25Th/ConversorDec2Bin/assets/147948747/bf8c6db8-57e5-4d1b-b822-edbff4cef3e7)
+![Installation](https://github.com/Mona25Th/ConversorDec2Bin/assets/147948747/bf8c6db8-20e5-4d1b-b822-edbff4cef3e7)
 
 ### mac
 follow the same steps 😁 😂
