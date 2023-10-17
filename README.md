@@ -14,8 +14,7 @@ follow these steps to install the sofware:
 2. choose the language
 
 3. click "next"
-
-*sublist _no se que debo escribir_ 😄
+  * sublist _no se que debo escribir_ 😄
 
 4. click next again, if you are using windwos **do_not_check** ~~no se que debo escribir~~
 
